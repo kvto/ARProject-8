@@ -44,7 +44,7 @@
 > 4.- Once you have everything configured, proceed to open the UnityHub program, and then go to the Open button and choose the Add Project from disk option; find the location of the previously downloaded file.
 
 <p align="center">
-<img height="400" src="Imagenes/open.png" />
+<img height="400" src="Images/open.png" />
 </p>
 
 
@@ -71,8 +71,8 @@ CE: 004712881 🆔
 
 
 <p align="center">
-<img height="50" src="Imagenes/logo2 (2).png" />
-<img height="50" src="Imagenes/logo3.png" />
-<img height="50" src="Imagenes/Sin título.png" />
- <img height="50" src="Imagenes/logo solo.png" />
+<img height="50" src="Images/logo2 (2).png" />
+<img height="50" src="Images/logo3.png" />
+<img height="50" src="Images/Sin título.png" />
+ <img height="50" src="Images/logo solo.png" />
 </p>
